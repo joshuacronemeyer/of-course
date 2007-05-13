@@ -1,0 +1,2009 @@
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:03) [GET]
+  Session ID: 8b773a48c97184c8013f1c433a8d8e90
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestRunner.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.00147 (682 reqs/sec) | Rendering: 0.00004 (2%) | 200 OK [http://localhost/selenium/TestRunner.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:03) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "resultsUrl"=>"postResults/firefox.yml", "test"=>"tests", "filename"=>["TestRunner.html"], "auto"=>"true"}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.00029 (3498 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests&auto=true&resultsUrl=postResults/firefox.yml]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:03) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00028 (3584 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:03) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "html-xpath-patched.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/html-xpath-patched.js
+Completed in 0.00032 (3165 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/scripts/html-xpath-patched.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:03) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserdetect.js
+Completed in 0.00033 (3030 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserbot.js
+Completed in 0.00033 (2993 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-api.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-api.js
+Completed in 0.00045 (2213 reqs/sec) | Rendering: 0.00005 (11%) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-commandhandlers.js
+Completed in 0.00038 (2644 reqs/sec) | Rendering: 0.00005 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-executionloop.js
+Completed in 0.00038 (2603 reqs/sec) | Rendering: 0.00005 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-testrunner.js
+Completed in 0.00039 (2551 reqs/sec) | Rendering: 0.00005 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-logging.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-logging.js
+Completed in 0.00035 (2872 reqs/sec) | Rendering: 0.00005 (14%) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-version.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-version.js
+Completed in 0.00039 (2551 reqs/sec) | Rendering: 0.00005 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "htmlutils.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/htmlutils.js
+Completed in 0.00066 (1514 reqs/sec) | Rendering: 0.00008 (12%) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "xpath.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/xpath.js
+Completed in 0.00161 (619 reqs/sec) | Rendering: 0.00009 (5%) | 200 OK [http://localhost/selenium/scripts/xpath.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "user-extensions.js"]}
+Completed in 0.00015 (6668 reqs/sec) | Rendering: 0.00004 (27%) | 404 [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestPrompt.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestPrompt.html
+Completed in 0.00027 (3679 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestRunner-splash.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner-splash.html
+Completed in 0.00028 (3609 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00028 (3622 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium-logo.png"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium-logo.png
+Completed in 0.00029 (3472 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 22:55:04) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Completed in 0.00017 (5714 reqs/sec) | Rendering: 0.00004 (22%) | 404 [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:02:59) [GET]
+  Session ID: 1456e38c78329e84018c3f7013b42312
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestRunner.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.00029 (3498 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/TestRunner.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "resultsUrl"=>"postResults/firefox.yml", "test"=>"tests", "filename"=>["TestRunner.html"], "auto"=>"true"}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.00033 (2993 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests&auto=true&resultsUrl=postResults/firefox.yml]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00027 (3650 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "html-xpath-patched.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/html-xpath-patched.js
+Completed in 0.00031 (3175 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/html-xpath-patched.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserdetect.js
+Completed in 0.00028 (3597 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserbot.js
+Completed in 0.00034 (2924 reqs/sec) | Rendering: 0.00005 (14%) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-api.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-api.js
+Completed in 0.00036 (2801 reqs/sec) | Rendering: 0.00004 (11%) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-commandhandlers.js
+Completed in 0.00030 (3310 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-executionloop.js
+Completed in 0.00032 (3086 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-testrunner.js
+Completed in 0.00034 (2898 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-logging.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-logging.js
+Completed in 0.00048 (2092 reqs/sec) | Rendering: 0.00006 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-version.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-version.js
+Completed in 0.00047 (2119 reqs/sec) | Rendering: 0.00006 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "htmlutils.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/htmlutils.js
+Completed in 0.08257 (12 reqs/sec) | Rendering: 0.00008 (0%) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "xpath.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/xpath.js
+Completed in 0.00057 (1769 reqs/sec) | Rendering: 0.00005 (8%) | 200 OK [http://localhost/selenium/scripts/xpath.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "user-extensions.js"]}
+Completed in 0.00016 (6288 reqs/sec) | Rendering: 0.00004 (27%) | 404 [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestPrompt.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestPrompt.html
+Completed in 0.00101 (992 reqs/sec) | Rendering: 0.00004 (4%) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestRunner-splash.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner-splash.html
+Completed in 0.00030 (3368 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00028 (3557 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium-logo.png"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium-logo.png
+Completed in 0.00029 (3401 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:03:00) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 0.00464 (215 reqs/sec) | Rendering: 0.00428 (92%) | 200 OK [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:03:01) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>It&#8217;s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href="/selenium/setup">here</a> for more info).</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+<tr><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>
+<tr><td>open</td><td>/</td><td>&nbsp;</td></tr>
+<tr><td>assertTitle</td><td>Home</td><td>&nbsp;</td></tr>
+</table>
+<p>More information about the commands is available <a href="http://release.openqa.org/selenium-core/nightly/reference.html">here</a>.</p>
+
+
+	<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href="http://www.whytheluckystiff.net/ruby/redcloth/">RedCloth</a> is used for formatting if installed.</p>
+
+
+	<p>Point the browser to <a href="http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href="http://localhost:3000/selenium/TestRunner.html?test=tests/course">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00540 (185 reqs/sec) | Rendering: 0.00134 (24%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#setup (for 127.0.0.1 at 2006-11-02 23:03:01) [GET]
+  Session ID: 90c13e193bd5df15c39214761adb53fb
+  Parameters: {"action"=>"setup", "controller"=>"selenium"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 0.09608 (10 reqs/sec) | Rendering: 0.00588 (6%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing CourseController#index (for 127.0.0.1 at 2006-11-02 23:03:01) [GET]
+  Session ID: 20ed8326a74ef096fc762a7e75e82a02
+  Parameters: {"action"=>"index", "controller"=>"course"}
+Redirected to http://localhost:3000/course/new
+Completed in 0.00089 (1119 reqs/sec) | DB: 0.00000 (0%) | 302 Found [http://localhost/]
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:03:01) [GET]
+  Session ID: 20ed8326a74ef096fc762a7e75e82a02
+  Parameters: {"action"=>"new", "controller"=>"course"}
+  [4;36;1mSQL (0.000641)[0m   [0;1mPRAGMA table_info(courses)[0m
+
+
+ActiveRecord::StatementInvalid (ActiveRecord::StatementInvalid):
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:259:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/core_ext/object/misc.rb:23:in `returning'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:258:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:196:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:696:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1969:in `attributes_from_column_definition'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1351:in `initialize_without_callbacks'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/callbacks.rb:236:in `initialize'
+    .//app/controllers/course_controller.rb:23:in `new'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:941:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:368:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/rescue.rb:82:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:408:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:377:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/session_management.rb:117:in `process'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/dispatcher.rb:38:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:115:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:81:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:67:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/servers/webrick.rb:59
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/server.rb:30
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    script/server:3
+
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/templates/rescues/layout.rhtml (500 Internal Error)
+
+
+Processing SeleniumController#record (for 127.0.0.1 at 2006-11-02 23:03:01) [POST]
+  Session ID: 20ed8326a74ef096fc762a7e75e82a02
+  Parameters: {"result"=>"failed", "logFile"=>"firefox.yml", "numTestFailures"=>"1", "numTestPasses"=>"0", "testTable.1"=>"<div>\r\n<p>It\342\200\231s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href=\"/selenium/setup\">here</a> for more info).</p>\r\n<table>\r\n<tbody><tr bgcolor=\"#ffcccc\"><th colspan=\"3\">Newcoursehappypath</th></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/</td><td>&nbsp;</td></tr>\r\n<tr title=\"Actual value 'Action Controller: Exception caught' did not match 'Home'\" bgcolor=\"#ffcccc\"><td>assertTitle</td><td>Home</td><td>Actual value 'Action Controller: Exception caught' did not match 'Home'</td></tr>\r\n</tbody></table>\r\n<p>More information about the commands is available <a href=\"http://release.openqa.org/selenium-core/nightly/reference.html\">here</a>.</p>\r\n\r\n\r\n\t<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href=\"http://www.whytheluckystiff.net/ruby/redcloth/\">RedCloth</a> is used for formatting if installed.</p>\r\n\r\n\r\n\t<p>Point the browser to <a href=\"http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel\">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href=\"http://localhost:3000/selenium/TestRunner.html?test=tests/course\">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>\r\n\r\n</div>", "numCommandFailures"=>"0", "numCommandPasses"=>"0", "selenium.revision"=>"1003M", "action"=>"record", "suite"=>"\r\n\r\n<script type=\"text/javascript\">\r\n<!--\r\nfunction openSuite(selector) {\r\n\tvar suite = selector.options[selector.selectedIndex].value;\r\n\tif(suite == \"header\") return;\r\n\tif(top.location.href != location.href) //inside a frame\r\n\t\ttop.location =  \"/selenium/TestRunner.html?test=tests\" + suite\r\n\telse\r\n\t\twindow.location = \"/selenium/tests\" + suite\r\n}\r\n//-->\r\n</script>\r\n<select onchange=\"openSuite(this)\">\r\n\t<option value=\"header\">Suites:</option>\r\n\r\n\t<option value=\"/course\">Course</option>\r\n\r\n</select>\r\n\r\n<table>\r\n\t<tbody><tr><th bgcolor=\"#ffcccc\">All test cases</th></tr>\r\n\r\n\t<tr><td bgcolor=\"#ffcccc\"><a href=\"/selenium/tests/course/newCourseHappyPath.sel\">Course.Newcoursehappypath</a></td></tr>\r\n\r\n</tbody></table>\r\n", "controller"=>"selenium", "selenium.version"=>"0.7.0", "numCommandErrors"=>"1", "totalTime"=>"0"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtml
+Completed in 0.00210 (476 reqs/sec) | Rendering: 0.00105 (49%) | DB: 0.00064 (30%) | 200 OK [http://localhost/selenium/postResults/firefox.yml]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:03:44) [GET]
+  Session ID: 20ed8326a74ef096fc762a7e75e82a02
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>It&#8217;s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href="/selenium/setup">here</a> for more info).</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+<tr><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>
+<tr><td>open</td><td>/</td><td>&nbsp;</td></tr>
+<tr><td>assertTitle</td><td>Home</td><td>&nbsp;</td></tr>
+</table>
+<p>More information about the commands is available <a href="http://release.openqa.org/selenium-core/nightly/reference.html">here</a>.</p>
+
+
+	<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href="http://www.whytheluckystiff.net/ruby/redcloth/">RedCloth</a> is used for formatting if installed.</p>
+
+
+	<p>Point the browser to <a href="http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href="http://localhost:3000/selenium/TestRunner.html?test=tests/course">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01106 (90 reqs/sec) | Rendering: 0.00089 (8%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:03:50) [GET]
+  Session ID: 20ed8326a74ef096fc762a7e75e82a02
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>It&#8217;s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href="/selenium/setup">here</a> for more info).</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+<tr><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>
+<tr><td>open</td><td>/</td><td>&nbsp;</td></tr>
+<tr><td>assertTitle</td><td>Home</td><td>&nbsp;</td></tr>
+</table>
+<p>More information about the commands is available <a href="http://release.openqa.org/selenium-core/nightly/reference.html">here</a>.</p>
+
+
+	<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href="http://www.whytheluckystiff.net/ruby/redcloth/">RedCloth</a> is used for formatting if installed.</p>
+
+
+	<p>Point the browser to <a href="http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href="http://localhost:3000/selenium/TestRunner.html?test=tests/course">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01074 (93 reqs/sec) | Rendering: 0.00084 (7%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#setup (for 127.0.0.1 at 2006-11-02 23:04:14) [GET]
+  Session ID: 20ed8326a74ef096fc762a7e75e82a02
+  Parameters: {"action"=>"setup", "controller"=>"selenium"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 0.00302 (331 reqs/sec) | Rendering: 0.00148 (49%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:05:42) [GET]
+  Session ID: 798c9e75d9902a817be83459b3467f17
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>It&#8217;s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href="/selenium/setup">here</a> for more info).</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+<tr><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>
+<tr><td>open</td><td>/</td><td>&nbsp;</td></tr>
+<tr><td>assertTitle</td><td>Home</td><td>&nbsp;</td></tr>
+</table>
+<p>More information about the commands is available <a href="http://release.openqa.org/selenium-core/nightly/reference.html">here</a>.</p>
+
+
+	<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href="http://www.whytheluckystiff.net/ruby/redcloth/">RedCloth</a> is used for formatting if installed.</p>
+
+
+	<p>Point the browser to <a href="http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href="http://localhost:3000/selenium/TestRunner.html?test=tests/course">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01156 (86 reqs/sec) | Rendering: 0.00092 (7%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:05:44) [GET]
+  Session ID: 798c9e75d9902a817be83459b3467f17
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>It&#8217;s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href="/selenium/setup">here</a> for more info).</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+<tr><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>
+<tr><td>open</td><td>/</td><td>&nbsp;</td></tr>
+<tr><td>assertTitle</td><td>Home</td><td>&nbsp;</td></tr>
+</table>
+<p>More information about the commands is available <a href="http://release.openqa.org/selenium-core/nightly/reference.html">here</a>.</p>
+
+
+	<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href="http://www.whytheluckystiff.net/ruby/redcloth/">RedCloth</a> is used for formatting if installed.</p>
+
+
+	<p>Point the browser to <a href="http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href="http://localhost:3000/selenium/TestRunner.html?test=tests/course">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01081 (92 reqs/sec) | Rendering: 0.00083 (7%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#setup (for 127.0.0.1 at 2006-11-02 23:05:44) [GET]
+  Session ID: 798c9e75d9902a817be83459b3467f17
+  Parameters: {"action"=>"setup", "controller"=>"selenium"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 0.00296 (337 reqs/sec) | Rendering: 0.00143 (48%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing CourseController#index (for 127.0.0.1 at 2006-11-02 23:05:44) [GET]
+  Session ID: 6e463e3a15b8e47461302e9e8be1850a
+  Parameters: {"action"=>"index", "controller"=>"course"}
+Redirected to http://localhost:3000/course/new
+Completed in 0.00025 (3938 reqs/sec) | DB: 0.00000 (0%) | 302 Found [http://localhost/]
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:05:44) [GET]
+  Session ID: 6e463e3a15b8e47461302e9e8be1850a
+  Parameters: {"action"=>"new", "controller"=>"course"}
+  [4;35;1mSQL (0.000147)[0m   [0mPRAGMA table_info(courses)[0m
+
+
+ActiveRecord::StatementInvalid (ActiveRecord::StatementInvalid):
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:259:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/core_ext/object/misc.rb:23:in `returning'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:258:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:196:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:696:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1969:in `attributes_from_column_definition'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1351:in `initialize_without_callbacks'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/callbacks.rb:236:in `initialize'
+    .//app/controllers/course_controller.rb:23:in `new'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:941:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:368:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/rescue.rb:82:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:408:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:377:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/session_management.rb:117:in `process'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/dispatcher.rb:38:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:115:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:81:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:67:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/servers/webrick.rb:59
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/server.rb:30
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    script/server:3
+
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/templates/rescues/layout.rhtml (500 Internal Error)
+
+
+Processing SeleniumController#record (for 127.0.0.1 at 2006-11-02 23:05:45) [POST]
+  Session ID: 6e463e3a15b8e47461302e9e8be1850a
+  Parameters: {"result"=>"failed", "logFile"=>"firefox.yml", "numTestFailures"=>"1", "numTestPasses"=>"0", "testTable.1"=>"<div>\r\n<p>It\342\200\231s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href=\"/selenium/setup\">here</a> for more info).</p>\r\n<table>\r\n<tbody><tr bgcolor=\"#ffcccc\"><th colspan=\"3\">Newcoursehappypath</th></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/</td><td>&nbsp;</td></tr>\r\n<tr title=\"Actual value 'Action Controller: Exception caught' did not match 'Home'\" bgcolor=\"#ffcccc\"><td>assertTitle</td><td>Home</td><td>Actual value 'Action Controller: Exception caught' did not match 'Home'</td></tr>\r\n</tbody></table>\r\n<p>More information about the commands is available <a href=\"http://release.openqa.org/selenium-core/nightly/reference.html\">here</a>.</p>\r\n\r\n\r\n\t<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href=\"http://www.whytheluckystiff.net/ruby/redcloth/\">RedCloth</a> is used for formatting if installed.</p>\r\n\r\n\r\n\t<p>Point the browser to <a href=\"http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel\">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href=\"http://localhost:3000/selenium/TestRunner.html?test=tests/course\">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>\r\n\r\n</div>", "numCommandFailures"=>"0", "numCommandPasses"=>"0", "selenium.revision"=>"1003M", "action"=>"record", "suite"=>"\r\n\r\n<script type=\"text/javascript\">\r\n<!--\r\nfunction openSuite(selector) {\r\n\tvar suite = selector.options[selector.selectedIndex].value;\r\n\tif(suite == \"header\") return;\r\n\tif(top.location.href != location.href) //inside a frame\r\n\t\ttop.location =  \"/selenium/TestRunner.html?test=tests\" + suite\r\n\telse\r\n\t\twindow.location = \"/selenium/tests\" + suite\r\n}\r\n//-->\r\n</script>\r\n<select onchange=\"openSuite(this)\">\r\n\t<option value=\"header\">Suites:</option>\r\n\r\n\t<option value=\"/course\">Course</option>\r\n\r\n</select>\r\n\r\n<table>\r\n\t<tbody><tr><th bgcolor=\"#ffcccc\">All test cases</th></tr>\r\n\r\n\t<tr><td bgcolor=\"#ffcccc\"><a href=\"/selenium/tests/course/newCourseHappyPath.sel\">Course.Newcoursehappypath</a></td></tr>\r\n\r\n</tbody></table>\r\n", "controller"=>"selenium", "selenium.version"=>"0.7.0", "numCommandErrors"=>"1", "totalTime"=>"0"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtml
+Completed in 0.00166 (602 reqs/sec) | Rendering: 0.00053 (31%) | DB: 0.00015 (8%) | 200 OK [http://localhost/selenium/postResults/firefox.yml]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:07:33) [GET]
+  Session ID: 6e463e3a15b8e47461302e9e8be1850a
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 0.00167 (598 reqs/sec) | Rendering: 0.00133 (79%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:07:33) [GET]
+  Session ID: 6e463e3a15b8e47461302e9e8be1850a
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>It&#8217;s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href="/selenium/setup">here</a> for more info).</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+<tr><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>
+<tr><td>open</td><td>/</td><td>&nbsp;</td></tr>
+<tr><td>assertTitle</td><td>Home</td><td>&nbsp;</td></tr>
+</table>
+<p>More information about the commands is available <a href="http://release.openqa.org/selenium-core/nightly/reference.html">here</a>.</p>
+
+
+	<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href="http://www.whytheluckystiff.net/ruby/redcloth/">RedCloth</a> is used for formatting if installed.</p>
+
+
+	<p>Point the browser to <a href="http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href="http://localhost:3000/selenium/TestRunner.html?test=tests/course">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00444 (225 reqs/sec) | Rendering: 0.00041 (9%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#setup (for 127.0.0.1 at 2006-11-02 23:07:33) [GET]
+  Session ID: 6e463e3a15b8e47461302e9e8be1850a
+  Parameters: {"action"=>"setup", "controller"=>"selenium"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/setup.rhtml
+Completed in 0.00313 (318 reqs/sec) | Rendering: 0.00156 (49%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/setup]
+
+
+Processing CourseController#index (for 127.0.0.1 at 2006-11-02 23:07:33) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"index", "controller"=>"course"}
+Redirected to http://localhost:3000/course/new
+Completed in 0.00026 (3905 reqs/sec) | DB: 0.00000 (0%) | 302 Found [http://localhost/]
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:07:33) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"new", "controller"=>"course"}
+  [4;36;1mSQL (0.000151)[0m   [0;1mPRAGMA table_info(courses)[0m
+
+
+ActiveRecord::StatementInvalid (ActiveRecord::StatementInvalid):
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:259:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/core_ext/object/misc.rb:23:in `returning'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:258:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:196:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:696:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1969:in `attributes_from_column_definition'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1351:in `initialize_without_callbacks'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/callbacks.rb:236:in `initialize'
+    .//app/controllers/course_controller.rb:23:in `new'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:941:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:368:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/rescue.rb:82:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:408:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:377:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/session_management.rb:117:in `process'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/dispatcher.rb:38:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:115:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:81:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:67:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/servers/webrick.rb:59
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/server.rb:30
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    script/server:3
+
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/templates/rescues/layout.rhtml (500 Internal Error)
+
+
+Processing SeleniumController#record (for 127.0.0.1 at 2006-11-02 23:07:33) [POST]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"result"=>"failed", "logFile"=>"firefox.yml", "numTestFailures"=>"1", "numTestPasses"=>"0", "testTable.1"=>"<div>\r\n<p>It\342\200\231s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href=\"/selenium/setup\">here</a> for more info).</p>\r\n<table>\r\n<tbody><tr bgcolor=\"#ffcccc\"><th colspan=\"3\">Newcoursehappypath</th></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/</td><td>&nbsp;</td></tr>\r\n<tr title=\"Actual value 'Action Controller: Exception caught' did not match 'Home'\" bgcolor=\"#ffcccc\"><td>assertTitle</td><td>Home</td><td>Actual value 'Action Controller: Exception caught' did not match 'Home'</td></tr>\r\n</tbody></table>\r\n<p>More information about the commands is available <a href=\"http://release.openqa.org/selenium-core/nightly/reference.html\">here</a>.</p>\r\n\r\n\r\n\t<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href=\"http://www.whytheluckystiff.net/ruby/redcloth/\">RedCloth</a> is used for formatting if installed.</p>\r\n\r\n\r\n\t<p>Point the browser to <a href=\"http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel\">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href=\"http://localhost:3000/selenium/TestRunner.html?test=tests/course\">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>\r\n\r\n</div>", "numCommandFailures"=>"0", "numCommandPasses"=>"0", "selenium.revision"=>"1003M", "action"=>"record", "suite"=>"\r\n\r\n<script type=\"text/javascript\">\r\n<!--\r\nfunction openSuite(selector) {\r\n\tvar suite = selector.options[selector.selectedIndex].value;\r\n\tif(suite == \"header\") return;\r\n\tif(top.location.href != location.href) //inside a frame\r\n\t\ttop.location =  \"/selenium/TestRunner.html?test=tests\" + suite\r\n\telse\r\n\t\twindow.location = \"/selenium/tests\" + suite\r\n}\r\n//-->\r\n</script>\r\n<select onchange=\"openSuite(this)\">\r\n\t<option value=\"header\">Suites:</option>\r\n\r\n\t<option value=\"/course\">Course</option>\r\n\r\n</select>\r\n\r\n<table>\r\n\t<tbody><tr><th bgcolor=\"#ffcccc\">All test cases</th></tr>\r\n\r\n\t<tr><td bgcolor=\"#ffcccc\"><a href=\"/selenium/tests/course/newCourseHappyPath.sel\">Course.Newcoursehappypath</a></td></tr>\r\n\r\n</tbody></table>\r\n", "controller"=>"selenium", "selenium.version"=>"0.7.0", "numCommandErrors"=>"1", "totalTime"=>"0"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtml
+Completed in 0.00161 (621 reqs/sec) | Rendering: 0.00052 (32%) | DB: 0.00015 (9%) | 200 OK [http://localhost/selenium/postResults/firefox.yml]
+
+
+Processing CourseController#index (for 127.0.0.1 at 2006-11-02 23:08:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"index", "controller"=>"course"}
+Redirected to http://localhost:3000/course/new
+Completed in 0.00053 (1886 reqs/sec) | DB: 0.00000 (0%) | 302 Found [http://localhost/]
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:08:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"new", "controller"=>"course"}
+  [4;35;1mSQL (0.000147)[0m   [0mPRAGMA table_info(courses)[0m
+
+
+ActiveRecord::StatementInvalid (ActiveRecord::StatementInvalid):
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:259:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/core_ext/object/misc.rb:23:in `returning'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:258:in `table_structure'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/connection_adapters/sqlite_adapter.rb:196:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:696:in `columns'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1969:in `attributes_from_column_definition'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/base.rb:1351:in `initialize_without_callbacks'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-1.14.4/lib/active_record/callbacks.rb:236:in `initialize'
+    .//app/controllers/course_controller.rb:23:in `new'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:941:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:368:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/rescue.rb:82:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:408:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:377:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/session_management.rb:117:in `process'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/dispatcher.rb:38:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:115:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:81:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:67:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/servers/webrick.rb:59
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/server.rb:30
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    script/server:3
+
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/templates/rescues/layout.rhtml (500 Internal Error)
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:09:44) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"new", "controller"=>"course"}
+  [4;36;1mSQL (0.001594)[0m   [0;1mPRAGMA table_info(courses)[0m
+Rendering course/new
+Rendered course/_map_head (0.02134)
+Completed in 0.09319 (10 reqs/sec) | Rendering: 0.07027 (75%) | DB: 0.00159 (1%) | 200 OK [http://localhost/course/new]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "resultsUrl"=>"postResults/firefox.yml", "test"=>"tests", "filename"=>["TestRunner.html"], "auto"=>"true"}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.00132 (755 reqs/sec) | Rendering: 0.00004 (3%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests&auto=true&resultsUrl=postResults/firefox.yml]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00030 (3279 reqs/sec) | Rendering: 0.00004 (13%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "html-xpath-patched.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/html-xpath-patched.js
+Completed in 0.00032 (3104 reqs/sec) | Rendering: 0.00004 (12%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/html-xpath-patched.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserdetect.js
+Completed in 0.00028 (3521 reqs/sec) | Rendering: 0.00004 (14%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserbot.js
+Completed in 0.00035 (2882 reqs/sec) | Rendering: 0.00004 (11%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-api.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-api.js
+Completed in 0.00042 (2385 reqs/sec) | Rendering: 0.00005 (10%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-commandhandlers.js
+Completed in 0.00038 (2644 reqs/sec) | Rendering: 0.00004 (10%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-executionloop.js
+Completed in 0.00033 (3004 reqs/sec) | Rendering: 0.00004 (12%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-testrunner.js
+Completed in 0.00036 (2816 reqs/sec) | Rendering: 0.00004 (12%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-logging.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-logging.js
+Completed in 0.00050 (2011 reqs/sec) | Rendering: 0.00006 (12%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-version.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-version.js
+Completed in 0.00049 (2041 reqs/sec) | Rendering: 0.00006 (13%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "htmlutils.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/htmlutils.js
+Completed in 0.00111 (902 reqs/sec) | Rendering: 0.00007 (6%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "xpath.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/xpath.js
+Completed in 0.00085 (1170 reqs/sec) | Rendering: 0.00007 (7%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/scripts/xpath.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "user-extensions.js"]}
+Completed in 0.00015 (6626 reqs/sec) | Rendering: 0.00004 (26%) | DB: 0.00000 (0%) | 404 [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 0.00463 (216 reqs/sec) | Rendering: 0.00426 (91%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:26:57) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Completed in 0.01431 (69 reqs/sec) | Rendering: 0.00005 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#record (for 127.0.0.1 at 2006-11-02 23:26:59) [POST]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"result"=>"failed", "logFile"=>"firefox.yml", "numTestFailures"=>"1", "numTestPasses"=>"0", "testTable.1"=>"<div>\r\n<p>It\342\200\231s often a good idea to start the test with opening <tt>/selenium/setup</tt> (see <a href=\"/selenium/setup\">here</a> for more info).</p>\r\n<table>\r\n<tbody><tr bgcolor=\"#ffcccc\"><th colspan=\"3\">Newcoursehappypath</th></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/selenium/setup</td><td>&nbsp;</td></tr>\r\n<tr bgcolor=\"#eeffee\"><td>open</td><td>/</td><td>&nbsp;</td></tr>\r\n<tr title=\"Actual value 'Action Controller: Exception caught' did not match 'Home'\" bgcolor=\"#ffcccc\"><td>assertTitle</td><td>Home</td><td>Actual value 'Action Controller: Exception caught' did not match 'Home'</td></tr>\r\n</tbody></table>\r\n<p>More information about the commands is available <a href=\"http://release.openqa.org/selenium-core/nightly/reference.html\">here</a>.</p>\r\n\r\n\r\n\t<p>You can write comments above and below the commands, but you can only have one set of commands, i.e. one table, per test. <a href=\"http://www.whytheluckystiff.net/ruby/redcloth/\">RedCloth</a> is used for formatting if installed.</p>\r\n\r\n\r\n\t<p>Point the browser to <a href=\"http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel\">http://localhost:3000/selenium/tests/course/newCourseHappyPath.sel</a> to see how this test is rendered, or to <a href=\"http://localhost:3000/selenium/TestRunner.html?test=tests/course\">http://localhost:3000/selenium/TestRunner.html?test=tests/course</a> to run the suite.</p>\r\n\r\n</div>", "numCommandFailures"=>"0", "numCommandPasses"=>"0", "selenium.revision"=>"1003M", "action"=>"record", "suite"=>"\r\n\r\n<script type=\"text/javascript\">\r\n<!--\r\nfunction openSuite(selector) {\r\n\tvar suite = selector.options[selector.selectedIndex].value;\r\n\tif(suite == \"header\") return;\r\n\tif(top.location.href != location.href) //inside a frame\r\n\t\ttop.location =  \"/selenium/TestRunner.html?test=tests\" + suite\r\n\telse\r\n\t\twindow.location = \"/selenium/tests\" + suite\r\n}\r\n//-->\r\n</script>\r\n<select onchange=\"openSuite(this)\">\r\n\t<option value=\"header\">Suites:</option>\r\n\r\n\t<option value=\"/course\">Course</option>\r\n\r\n</select>\r\n\r\n<table>\r\n\t<tbody><tr><th bgcolor=\"#ffcccc\">All test cases</th></tr>\r\n\r\n\t<tr><td bgcolor=\"#ffcccc\"><a href=\"/selenium/tests/course/newCourseHappyPath.sel\">Course.Newcoursehappypath</a></td></tr>\r\n\r\n</tbody></table>\r\n", "controller"=>"selenium", "selenium.version"=>"0.7.0", "numCommandErrors"=>"1", "totalTime"=>"0"}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/record.rhtml
+Completed in 0.00399 (250 reqs/sec) | Rendering: 0.00180 (45%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/postResults/firefox.yml]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:26:59) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Rendering file/home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/workspace/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 0.00182 (548 reqs/sec) | Rendering: 0.00150 (82%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:26:59) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Completed in 0.01605 (62 reqs/sec) | Rendering: 0.00005 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:26:59) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"new", "controller"=>"course"}
+Rendering course/new
+Rendered course/_map_head (0.00013)
+Completed in 0.00085 (1178 reqs/sec) | Rendering: 0.00071 (83%) | DB: 0.00000 (0%) | 200 OK [http://localhost/course/new]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:27:10) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Completed in 0.00894 (111 reqs/sec) | Rendering: 0.00007 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:27:11) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"new", "controller"=>"course"}
+Rendering course/new
+Rendered course/_map_head (0.00013)
+Completed in 0.00084 (1190 reqs/sec) | Rendering: 0.00070 (83%) | DB: 0.00000 (0%) | 200 OK [http://localhost/course/new]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:27:36) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["SeleniumLog.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/SeleniumLog.html
+Completed in 0.00030 (3387 reqs/sec) | Rendering: 0.00004 (13%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/SeleniumLog.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-02 23:27:36) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00029 (3401 reqs/sec) | Rendering: 0.00004 (13%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-02 23:27:40) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/workspace/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Completed in 0.00341 (293 reqs/sec) | Rendering: 0.00003 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing CourseController#new (for 127.0.0.1 at 2006-11-02 23:27:40) [GET]
+  Session ID: 8694ca00142caf6ed20f9034d23a189b
+  Parameters: {"action"=>"new", "controller"=>"course"}
+Rendering course/new
+Rendered course/_map_head (0.00013)
+Completed in 0.00084 (1194 reqs/sec) | Rendering: 0.00070 (83%) | DB: 0.00000 (0%) | 200 OK [http://localhost/course/new]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:42) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>[]}
+Redirected to http://localhost:3000/selenium/TestRunner.html?test=tests
+Completed in 0.00127 (789 reqs/sec) | 302 Found [http://localhost/selenium]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:42) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "test"=>"tests", "filename"=>["TestRunner.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.02203 (45 reqs/sec) | Rendering: 0.00009 (0%) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:42) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00908 (110 reqs/sec) | Rendering: 0.00012 (1%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "html-xpath-patched.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/html-xpath-patched.js
+Completed in 0.00828 (120 reqs/sec) | Rendering: 0.00008 (0%) | 200 OK [http://localhost/selenium/scripts/html-xpath-patched.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserdetect.js
+Completed in 0.00761 (131 reqs/sec) | Rendering: 0.00008 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserbot.js
+Completed in 0.00478 (209 reqs/sec) | Rendering: 0.00007 (1%) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-api.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-api.js
+Completed in 0.01121 (89 reqs/sec) | Rendering: 0.00008 (0%) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-commandhandlers.js
+Completed in 0.00418 (239 reqs/sec) | Rendering: 0.00007 (1%) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-executionloop.js
+Completed in 0.00284 (352 reqs/sec) | Rendering: 0.00006 (2%) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-testrunner.js
+Completed in 0.00510 (196 reqs/sec) | Rendering: 0.00008 (1%) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-logging.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-logging.js
+Completed in 0.00299 (334 reqs/sec) | Rendering: 0.00007 (2%) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-version.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-version.js
+Completed in 0.00448 (223 reqs/sec) | Rendering: 0.00008 (1%) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "htmlutils.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/htmlutils.js
+Completed in 0.01074 (93 reqs/sec) | Rendering: 0.00010 (0%) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "xpath.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/xpath.js
+Completed in 0.00761 (131 reqs/sec) | Rendering: 0.00009 (1%) | 200 OK [http://localhost/selenium/scripts/xpath.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "user-extensions.js"]}
+Completed in 0.00015 (6797 reqs/sec) | Rendering: 0.00004 (27%) | 404 [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestPrompt.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestPrompt.html
+Completed in 0.01662 (60 reqs/sec) | Rendering: 0.00007 (0%) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestRunner-splash.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner-splash.html
+Completed in 0.00051 (1968 reqs/sec) | Rendering: 0.00004 (8%) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00028 (3581 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium-logo.png"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium-logo.png
+Completed in 0.00199 (503 reqs/sec) | Rendering: 0.00006 (2%) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:26:43) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Rendering file/home/josh/svn/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/svn/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 0.03458 (28 reqs/sec) | Rendering: 0.03424 (98%) | 200 OK [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:26:44) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00585 (171 reqs/sec) | Rendering: 0.00039 (6%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:26:48) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.03455 (28 reqs/sec) | Rendering: 0.00115 (3%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:26:52) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01202 (83 reqs/sec) | Rendering: 0.00071 (5%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:02) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01571 (63 reqs/sec) | Rendering: 0.00196 (12%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:25) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01564 (63 reqs/sec) | Rendering: 0.00167 (10%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:26) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.03543 (28 reqs/sec) | Rendering: 0.00101 (2%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:29) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01555 (64 reqs/sec) | Rendering: 0.00166 (10%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:30) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01443 (69 reqs/sec) | Rendering: 0.00082 (5%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:30) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00693 (144 reqs/sec) | Rendering: 0.00046 (6%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:30) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00631 (158 reqs/sec) | Rendering: 0.00048 (7%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.02496 (40 reqs/sec) | Rendering: 0.00773 (30%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:32) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.02148 (46 reqs/sec) | Rendering: 0.00051 (2%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:32) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00556 (179 reqs/sec) | Rendering: 0.00037 (6%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:27:32) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.sel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.sel
+Rendering text<p>require &#8220;selenium&#8221; 
+require &#8220;test/unit&#8221;</p>
+
+
+	<p>class NewTest &lt; Test::Unit::TestCase
+def setup
+@verification_errors = []
+if $selenium
+@selenium = $selenium
+else
+@selenium = Selenium::SeleneseInterpreter.new(&#8220;localhost&#8221;, 4444, &#8220;*firefox&#8221;, &#8220;http://localhost:4444&#8221;, 10000);
+@selenium.start
+end
+@selenium.set_context(&#8220;test_new&#8221;, &#8220;info&#8221;)
+end</p>
+
+
+	<p>def teardown
+@selenium.stop unless $selenium
+assert_equal [], @verification_errors
+end</p>
+
+
+	<p>def test_new
+@selenium.open &#8221;/course/new&#8221; 
+@selenium.type &#8220;address&#8221;, &#8220;1122 N. Hoyne Chicago <span class="caps">IL 60622</span>&#8221; 
+@selenium.click &#8221;//input[@value=&#8217;Go&#8217;]&#8221; 
+@selenium.assertEval &#8220;41.901968,-87.679687&#8221;, this.page().findElement(&#8220;map&#8221;).getCenter().toUrlValue()
+end
+end</p>
+<table>
+<tr><th colspan="3">Newcoursehappypath</th></tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00932 (107 reqs/sec) | Rendering: 0.00052 (5%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.sel]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "test"=>"tests", "filename"=>["TestRunner.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.00065 (1536 reqs/sec) | Rendering: 0.00008 (12%) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00033 (3010 reqs/sec) | Rendering: 0.00005 (13%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "html-xpath-patched.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/html-xpath-patched.js
+Completed in 0.00032 (3106 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/html-xpath-patched.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserdetect.js
+Completed in 0.00029 (3460 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserbot.js
+Completed in 0.00055 (1805 reqs/sec) | Rendering: 0.00004 (7%) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-api.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-api.js
+Completed in 0.00037 (2695 reqs/sec) | Rendering: 0.00004 (11%) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-commandhandlers.js
+Completed in 0.00031 (3226 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-executionloop.js
+Completed in 0.00030 (3355 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-testrunner.js
+Completed in 0.00040 (2519 reqs/sec) | Rendering: 0.00005 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-logging.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-logging.js
+Completed in 0.00035 (2832 reqs/sec) | Rendering: 0.00005 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-version.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-version.js
+Completed in 0.00035 (2872 reqs/sec) | Rendering: 0.00005 (14%) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "htmlutils.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/htmlutils.js
+Completed in 0.00038 (2657 reqs/sec) | Rendering: 0.00005 (13%) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "xpath.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/xpath.js
+Completed in 0.00082 (1217 reqs/sec) | Rendering: 0.00007 (8%) | 200 OK [http://localhost/selenium/scripts/xpath.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "user-extensions.js"]}
+Completed in 0.00014 (7037 reqs/sec) | Rendering: 0.00004 (28%) | 404 [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestPrompt.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestPrompt.html
+Completed in 0.00028 (3584 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestRunner-splash.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner-splash.html
+Completed in 0.00031 (3194 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00028 (3560 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 12:30:15) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium-logo.png"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium-logo.png
+Completed in 0.00029 (3435 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:30:16) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Rendering file/home/josh/svn/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/svn/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 0.00159 (630 reqs/sec) | Rendering: 0.00127 (80%) | 200 OK [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 12:30:16) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.rsel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.rsel
+
+
+ActionView::TemplateError (/usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require__': no such file to load -- selenium) on line #0 of test/selenium/course/newCourseHappyPath.rsel:
+1: require "selenium"
+2: require "test/unit"
+3: 
+
+    vendor/plugins/selenium-on-rails/lib/selenium_on_rails/rselenese.rb:31:in `render'
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    (eval):2:in `render'
+    vendor/plugins/selenium-on-rails/lib/selenium_on_rails/test_builder.rb:36:in `eval'
+    vendor/plugins/selenium-on-rails/lib/selenium_on_rails/rselenese.rb:31:in `render'
+    vendor/plugins/selenium-on-rails/lib/selenium_on_rails/test_builder.rb:36:in `table'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/vendor/builder/xmlbase.rb:138:in `_nested_structures'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/vendor/builder/xmlbase.rb:60:in `method_missing'
+    vendor/plugins/selenium-on-rails/lib/selenium_on_rails/test_builder.rb:34:in `table'
+    vendor/plugins/selenium-on-rails/lib/selenium_on_rails/rselenese.rb:25:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_view/base.rb:406:in `delegate_render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_view/base.rb:290:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_view/base.rb:251:in `render_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:726:in `render_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:661:in `render_with_no_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/layout.rb:253:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:53:in `render'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:53:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:704:in `render_to_string'
+    vendor/plugins/selenium-on-rails/lib/selenium_on_rails/renderer.rb:8:in `render_test_case'
+    vendor/plugins/selenium-on-rails/lib/controllers/selenium_controller.rb:22:in `test_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:941:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:368:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/benchmarking.rb:69:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/rescue.rb:82:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/base.rb:408:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/filters.rb:377:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/session_management.rb:117:in `process'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/dispatcher.rb:38:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:115:in `handle_dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:81:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/webrick_server.rb:67:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/servers/webrick.rb:59
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    /usr/lib/ruby/gems/1.8/gems/rails-1.1.6/lib/commands/server.rb:30
+    /usr/local/lib/site_ruby/1.8/rubygems/custom_require.rb:21:in `require'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-1.3.1/lib/active_support/dependencies.rb:147:in `require'
+    script/server:3
+
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-1.12.5/lib/action_controller/templates/rescues/layout.rhtml (500 Internal Error)
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:30) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "test"=>"tests", "filename"=>["TestRunner.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner.html
+Completed in 0.00070 (1422 reqs/sec) | Rendering: 0.00008 (11%) | 200 OK [http://localhost/selenium/TestRunner.html?test=tests]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00036 (2809 reqs/sec) | Rendering: 0.00005 (13%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "html-xpath-patched.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/html-xpath-patched.js
+Completed in 0.00035 (2833 reqs/sec) | Rendering: 0.00004 (11%) | 200 OK [http://localhost/selenium/scripts/html-xpath-patched.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserdetect.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserdetect.js
+Completed in 0.00029 (3412 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-browserdetect.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-browserbot.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-browserbot.js
+Completed in 0.00035 (2833 reqs/sec) | Rendering: 0.00004 (11%) | 200 OK [http://localhost/selenium/scripts/selenium-browserbot.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-api.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-api.js
+Completed in 0.00040 (2519 reqs/sec) | Rendering: 0.00004 (11%) | 200 OK [http://localhost/selenium/scripts/selenium-api.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-commandhandlers.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-commandhandlers.js
+Completed in 0.00034 (2922 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-commandhandlers.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-executionloop.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-executionloop.js
+Completed in 0.00033 (3048 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-executionloop.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-testrunner.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-testrunner.js
+Completed in 0.00037 (2681 reqs/sec) | Rendering: 0.00005 (12%) | 200 OK [http://localhost/selenium/scripts/selenium-testrunner.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-logging.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-logging.js
+Completed in 0.00035 (2841 reqs/sec) | Rendering: 0.00005 (13%) | 200 OK [http://localhost/selenium/scripts/selenium-logging.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "selenium-version.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/selenium-version.js
+Completed in 0.00035 (2888 reqs/sec) | Rendering: 0.00005 (14%) | 200 OK [http://localhost/selenium/scripts/selenium-version.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "htmlutils.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/htmlutils.js
+Completed in 0.00043 (2299 reqs/sec) | Rendering: 0.00005 (12%) | 200 OK [http://localhost/selenium/scripts/htmlutils.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "xpath.js"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/scripts/xpath.js
+Completed in 0.00072 (1388 reqs/sec) | Rendering: 0.00006 (8%) | 200 OK [http://localhost/selenium/scripts/xpath.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["scripts", "user-extensions.js"]}
+Completed in 0.00020 (5071 reqs/sec) | Rendering: 0.00006 (28%) | 404 [http://localhost/selenium/scripts/user-extensions.js]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestPrompt.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestPrompt.html
+Completed in 0.00028 (3545 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/TestPrompt.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["TestRunner-splash.html"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/TestRunner-splash.html
+Completed in 0.00034 (2924 reqs/sec) | Rendering: 0.00004 (12%) | 200 OK [http://localhost/selenium/TestRunner-splash.html]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium.css"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium.css
+Completed in 0.00028 (3584 reqs/sec) | Rendering: 0.00004 (14%) | 200 OK [http://localhost/selenium/selenium.css]
+
+
+Processing SeleniumController#support_file (for 127.0.0.1 at 2006-11-28 15:35:31) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"support_file", "controller"=>"selenium", "filename"=>["selenium-logo.png"]}
+Sending file /usr/lib/ruby/gems/1.8/gems/selenium-0.7/core/selenium-logo.png
+Completed in 0.00030 (3334 reqs/sec) | Rendering: 0.00004 (13%) | 200 OK [http://localhost/selenium/selenium-logo.png]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 15:35:32) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>[]}
+Rendering file/home/josh/svn/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtmllayoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Rendering /home/josh/svn/GoogleMaps/vendor/plugins/selenium-on-rails/lib/views/test_suite.rhtml
+Completed in 0.00161 (621 reqs/sec) | Rendering: 0.00129 (79%) | 200 OK [http://localhost/selenium/tests]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 15:35:32) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.rsel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.rsel
+Rendering text<table>
+  <tr>
+    <th colspan="3">Newcoursehappypath</th>
+  </tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.01207 (82 reqs/sec) | Rendering: 0.00047 (3%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.rsel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 15:35:34) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.rsel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.rsel
+Rendering text<table>
+  <tr>
+    <th colspan="3">Newcoursehappypath</th>
+  </tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00174 (574 reqs/sec) | Rendering: 0.00036 (20%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.rsel]
+
+
+Processing SeleniumController#test_file (for 127.0.0.1 at 2006-11-28 15:35:36) [GET]
+  Session ID: cf0635ebbb10d3c7283be8a235dbbcd5
+  Parameters: {"action"=>"test_file", "controller"=>"selenium", "testname"=>["course", "newCourseHappyPath.rsel"]}
+Rendering /home/josh/svn/GoogleMaps/test/selenium/course/newCourseHappyPath.rsel
+Rendering text<table>
+  <tr>
+    <th colspan="3">Newcoursehappypath</th>
+  </tr>
+</table>
+layoutfalse within ../../vendor/plugins/selenium-on-rails/lib/views/layout
+Completed in 0.00382 (261 reqs/sec) | Rendering: 0.00083 (21%) | 200 OK [http://localhost/selenium/tests/course/newCourseHappyPath.rsel]
+  [4;36;1mSQL (0.000720)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000728)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000737)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000722)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000719)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000794)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.001063)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000709)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000728)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000727)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000715)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000808)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000729)[0m   [0;1mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000716)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000575)[0m   [0mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000730)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000575)[0m   [0mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000743)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000633)[0m   [0mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000735)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000603)[0m   [0mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000700)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000586)[0m   [0mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000696)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000575)[0m   [0mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000711)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000573)[0m   [0mPRAGMA table_info(geocodes)[0m
+  [4;36;1mSQL (0.000707)[0m   [0;1mPRAGMA table_info(courses)[0m
+  [4;35;1mSQL (0.000576)[0m   [0mPRAGMA table_info(geocodes)[0m

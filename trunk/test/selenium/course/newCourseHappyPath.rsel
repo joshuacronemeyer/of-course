@@ -1,0 +1,27 @@
+require "selenium"
+require "test/unit"
+
+class NewTest < Test::Unit::TestCase
+  def setup
+    @verification_errors = []
+    if $selenium
+      @selenium = $selenium
+    else
+      @selenium = Selenium::SeleneseInterpreter.new("localhost", 4444, "*firefox", "http://localhost:4444", 10000);
+      @selenium.start
+    end
+    @selenium.set_context("test_new", "info")
+  end
+  
+  def teardown
+    @selenium.stop unless $selenium
+    assert_equal [], @verification_errors
+  end
+  
+  def test_new
+    @selenium.open "/course/new"
+    @selenium.type "address", "1122 N. Hoyne Chicago IL 60622"
+    @selenium.click "//input[@value='Go']"
+    @selenium.assertEval "41.901968,-87.679687", this.page().findElement("map").getCenter().toUrlValue()
+  end
+end

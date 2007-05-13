@@ -1,0 +1,45 @@
+<%=render_partial 'map_head', "Create a new course."%>
+
+  <body onload="load()" onunload="GUnload()">
+  	<div id="headerimg">
+  	<a href="/"><img src="/images/of_course.jpg"/></a>
+	</div>
+	
+	<div class='container'>
+  	<h1>A new course</h1>
+  	
+  	<% unless @course.errors.empty? %>
+  	The course couldn't be saved due to these errors:
+  	<ul>
+  	<% @course.errors.each_full do |message| %>
+    <li><%= message %></li>
+  	<% end %>
+  	</ul>
+	<% end %>
+  	
+  	<form action="index" onsubmit="showAddress(this.address.value); return false">
+    	<br />
+    	<input type="text" id="address" name="address" size="60" value="Center the map on your address."/>
+    	<input type="submit" value="Go" />
+    	<br />
+    	metric?<input type="checkbox" id="metric" name="metric" onClick="toggleMetric();"/>
+    </form>
+    
+    <div id="map" style='width:500px; height:500px' class="map"></div>
+	length <span id="distance">0.00 miles</span>
+    
+    <form name="course" action="create" method="post">
+    	name<br />
+    	<input type="text" id="name" name="name" size="60" /><br /><br />
+    	description<br />
+    	<textarea name="description" rows="2" cols="57" id="description"></textarea>
+      	<input type="hidden" id="coords" name="coords" />
+      	<input type="hidden" id="distance" name="distance" />
+      	<br /><br />
+      	<input type="submit" value="Save" />
+    </form>
+  
+  </div>
+  </body>
+  
+</html>

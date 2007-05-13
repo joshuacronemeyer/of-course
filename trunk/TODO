@@ -1,0 +1,7 @@
+Ideas to implement:
+
+1. Be able to add pictures and text to points on the map.
+2. Be able to drag points around during creation.
+3. Be able to link to the map visually (like google maps).
+4. Have unclickable mile/km markers on the path
+5. A good refactoring in the JS is that we don't need the points array.  A polyline object is all we need.  It contains all the vertices.

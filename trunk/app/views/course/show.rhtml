@@ -1,0 +1,59 @@
+<%=render_partial 'map_head', @course.name%>
+
+  <body onload="reload()" onunload="GUnload()">
+  <div id="headerimg">
+  	<a href="/"><img src="/images/of_course.jpg"/></a>
+  </div>
+	
+  <div class='container'>
+  
+  	<h1><%=@course.name%></h1>
+	
+	<% unless !@comment.nil? && @comment.errors.empty? %>
+  	Your comment couldn't be saved due to these errors:
+  	<ul>
+  	<% @comment.errors.each_full do |message| %>
+    <li><%= message %></li>
+  	<% end %>
+  	</ul>
+	<% end %>
+	
+  	<form onsubmit="showAddress(this.address.value); return false">
+    	<br />
+    	<input type="text" id="address" name="address" size="60" />
+    	<input type="submit" value="Go" />
+    	<br />
+    	metric?<input type="checkbox" id="metric" name="metric" onClick="toggleMetric();"/>
+    </form>
+    
+    <div id="map" style='width:500px; height:500px' class="map"></div>
+	length <span id="distance">0.00 miles</span>
+    <div id="description"><%=@course.description%></div>
+    
+    <%for comment in @course.comments%>
+    	<%=comment.author%> says:<br />
+    	<%=comment.text%><br />
+    <%end%>
+    
+    <!-- Hidden fields are used to pass values to the javascript -->
+    <form name="course" method="post">
+    	<input type="hidden" id="coords" name="coords" />
+    	<input type="hidden" id="center" name="center" value="<%=@course.center%>"/>
+      	<input type="hidden" id="coordinates" name="coordinates" value="<%=@course.csv_of_geocodes%>"/>
+      	<input type="hidden" id="distance" name="distance" value="<%=@course.distance%>"/>
+    </form>
+    <h1>Leave a comment about this course.</h1>
+  	<form name="comment" action="/course/comment" method="post">
+    	your name<br />
+    	<input type="text" id="name" name="name" size="60" /><br /><br />
+    	<input type="hidden" id="id" name="id" value="<%=@course.id%>"/>
+    	your comment<br />
+    	<textarea name="comment" rows="2" cols="57" id="comment"></textarea>
+      	<br /><br />
+      	<input type="submit" value="Save" />
+    </form>
+    
+  </div>
+  </body>
+
+</html>
