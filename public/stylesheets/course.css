@@ -1,0 +1,45 @@
+body {
+	font-size: 62.5%; /* Resets 1em to 10px */
+	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	background-color: #ebe8ef;
+	color: #333;
+	text-align: center;
+	}
+
+#headerimg  {
+	margin: 7px 9px 0; height: 197px; width: 748px center;
+	text-decoration: none;
+	}
+	
+img {
+	border: 0;
+	}
+		
+#content {
+	font-size: 1.2em;
+	}
+
+.container {
+	width: 700px;
+	background-color: #ffffff;
+	border-left: 1px solid #aaa;
+	border-right: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+	padding: 20px;
+	margin: 0 auto;
+	}
+
+.map {
+	background-color: #ccc;
+	margin-left: auto;
+	margin-right: auto;
+	}
+#footer {
+	background-color: #eee;
+	}
+
+h1, h2, h3 {
+	font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	font-weight: bold;
+	}
+
